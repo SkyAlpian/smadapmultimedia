@@ -1,0 +1,135 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    width: 360px;
+}
+
+header {
+    width: 100%;
+}
+
+.logo a img {
+    width: 120px;
+    margin-left: 10px;
+    float: left;    
+}
+
+ul li{
+    float: right;
+    padding: 8px;
+    margin-right: 15px;
+}
+
+ul li img{
+    width: 28px;
+    margin: auto;
+    position: relative;
+    
+}
+
+nav {
+    width: 360px;
+    margin: auto;
+    display: flex;
+    background: black;
+    border-bottom: 3px solid green;
+    position: fixed;
+}
+
+.foto-utama img {
+    width: 360px;
+    margin: auto;
+    margin-top: 55px;
+}
+
+h1, h3 {
+    text-align: center;
+    padding: 6px;
+}
+
+h4, h2 {
+    padding: 0px;
+    margin-left: 10px;
+}
+
+h4 {
+    margin-top: 40px;
+}
+
+h2 {
+    margin-top: 10px;
+}
+
+.pembuka {
+    padding: 5px;
+}
+
+.fd img{
+    width: 340px;
+    margin-left: 10px;
+}
+
+h5 {
+    text-align: center;
+}
+
+.pembina{
+    margin-top: 30px;
+    padding: 5px;
+}
+
+.anggota {
+    margin-left: 10px;
+}
+
+.nama {
+    margin-left: 15px;
+}
+
+.sosmed p{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 70px;
+}
+
+.ig, .tt, .yt {
+    display: inline-block;
+    margin-bottom: 70px;
+}
+
+.ig a img {    
+    width: 60px;
+    margin-left: 50px;
+}
+
+.tt a img {    
+    width: 60px;
+    margin-left: 30px;
+}
+
+.yt a img {    
+    width: 60px;
+    margin-left: 30px;
+}
+
+.footer {
+    background: black;
+    padding: 20px;
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+}
+
+.footer p a {
+    text-decoration: none;
+    color: green;
+}
